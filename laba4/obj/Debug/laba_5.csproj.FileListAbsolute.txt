@@ -1,0 +1,11 @@
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\bin\Debug\laba_5.exe.config
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\bin\Debug\laba_5.exe
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\bin\Debug\laba_5.pdb
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.Properties.Resources.resources
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.exe
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.pdb
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.fMain.resources
+C:\Users\Misha\Desktop\Лаби на замовлення\laba_5\laba_5\obj\Debug\laba_5.fPhone.resources
